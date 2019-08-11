@@ -1,3 +1,4 @@
-#!/bin/bash
+#!/bin/python
 
 print "Hello World"
+

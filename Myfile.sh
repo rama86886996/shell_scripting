@@ -1,3 +1,4 @@
 #! /bin/bash
-read n
-n=$(sddf)
+
+
+echo "it is bhasker file"

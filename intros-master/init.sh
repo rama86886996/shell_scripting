@@ -1,0 +1,1 @@
+curl https://gitlab.com/cit-devops/intros/raw/master/init.sh | sudo bash

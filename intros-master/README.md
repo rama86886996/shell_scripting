@@ -10,7 +10,11 @@ Following are the list of setups you need to perform.
 
 http://aws.amazon.com
 
+<<<<<<< HEAD
 ![image](/uploads/353c75f031be740998c99f4bf8ff35ba/image.png)
+=======
+[image](/uploads/353c75f031be740998c99f4bf8ff35ba/image.png)
+>>>>>>> a676660e9fa8f1aa4b20e82d25122f3f7e9e8bbc
 
 ### 2. Fill your details to create an account. Details required are Email address and your account name of your choice.
 
